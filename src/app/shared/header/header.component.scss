@@ -1,0 +1,23 @@
+.mainmenu {
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 20px;
+    .navbar-static-top {
+      padding: 25px 0px;
+      background-color: transparent;
+      margin-bottom: 0px;
+      border-bottom: 0px;
+    }
+    .navbar-brand {
+      height: auto;
+      padding: 0px;
+    }
+    .navbar-collapse {
+      ul.nav {
+        padding-top: 12px;
+        li a {
+          padding: 6px 15px;
+          margin: 0px 8px;
+        }
+      }
+    }
+  }
